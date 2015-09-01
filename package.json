@@ -1,0 +1,16 @@
+{
+  "name": "react-reflux-simple-demo",
+  "version": "0.0.1",
+  "description": "for learning",
+  "main": "JSXTransformer-0.13.3.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/walk1ng/react-reflux-simple-demo.git"
+  },
+  "homepage": "https://github.com/walk1ng/react-reflux-simple-demo",
+  "dependencies": {
+    "react":"0.13.3",
+    "reflux":"0.2.12",
+    "jsx-loader":"0.13.2"
+  }
+}
